@@ -19,6 +19,5 @@ Not Started
 
 ## History
 
-<!-- Keep this updated. Earliest to latest -->
-
 - Project setup and boilerplate cleanup
+- Initial Next.js and Tailwind CSS setup
