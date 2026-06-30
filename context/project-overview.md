@@ -373,7 +373,7 @@ model Tag {
 ### General
 
 - Modern, minimal, developer-focused
-- **Dark mode by default**, light mode optional
+- **Light mode by default**, Dark mode optional
 - Clean typography, generous whitespace
 - Subtle borders and shadows
 - Syntax highlighting for code blocks
@@ -425,3 +425,12 @@ model Tag {
 - [shadcn/ui](https://ui.shadcn.com)
 - [lucide-react Icons](https://lucide.dev/icons/)
 - [OpenAI API](https://platform.openai.com/docs)
+
+# Design References
+
+### Screenshots
+
+Refer to the screenshots below as a dashboard UI.  It does not have to be exact.  Use it as a reference.
+
+@context/screenshots/dashboard-ui-main.png
+@context/screenshots/dashboard-ui-drawer.png
