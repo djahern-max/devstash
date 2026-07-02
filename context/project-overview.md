@@ -88,7 +88,7 @@ Powerful search across:
 - **Markdown editor** for text types
 - File upload for file types (file / image)
 - Export data in multiple formats
-- **Dark mode** (default for devs)
+- **Dark mode** (light mode is default)
 - Add / remove items to/from multiple collections
 - View which collections an item belongs to
 

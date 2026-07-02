@@ -1,6 +1,7 @@
 import { PanelLeft, Plus, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { ThemeToggle } from "@/components/dashboard/ThemeToggle";
 
 interface TopBarProps {
   onToggleSidebar?: () => void;
@@ -25,6 +26,7 @@ export function TopBar({ onToggleSidebar }: TopBarProps) {
           disabled
         />
       </div>
+      <ThemeToggle />
       <Button disabled>
         <Plus />
         New item
